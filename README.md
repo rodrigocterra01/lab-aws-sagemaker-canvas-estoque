@@ -1,6 +1,11 @@
+# 📊 DESAFIO DE PROJETO - CURSO DIO Amazon SageMaker Canva - RODRIGO TERRA
 # 📊 Previsão de Estoque Inteligente na AWS com [SageMaker Canvas](https://aws.amazon.com/pt/sagemaker/canvas/)
 
 Bem-vindo ao desafio de projeto "Previsão de Estoque Inteligente na AWS com SageMaker Canvas. Neste Lab DIO, você aprenderá a usar o SageMaker Canvas para criar previsões de estoque baseadas em Machine Learning (ML). Siga os passos abaixo para completar o desafio!
+
+O Desafio foi realizado duas vezes com dois datasets diferentes.
+- dataset-1000-com-preco-variavel-e-renovacao-estoque.csv
+- dataset-1000-com-preco-promocional-e-renovacao-estoque.csv
 
 ## 📋 Pré-requisitos
 
