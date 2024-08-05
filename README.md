@@ -6,6 +6,15 @@ Bem-vindo ao desafio de projeto "Previsão de Estoque Inteligente na AWS com Sag
 O Desafio foi realizado duas vezes com dois datasets diferentes.
 - dataset-1000-com-preco-variavel-e-renovacao-estoque.csv
 - dataset-1000-com-preco-promocional-e-renovacao-estoque.csv
+As metricas obtidas:
+ Avg. wQL
+ WAPE
+ MAPE
+ MASE
+ RMSE
+
+Não foram boas para obter previsão de dados.. mesmo alterando o Campo de Target. (Valor/Quantidade)
+O Desafio foi realizado mas o SageMaker Canvas não conseguiu analisar e dar análise preditiva.
 
 ## 📋 Pré-requisitos
 
